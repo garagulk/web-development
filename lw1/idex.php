@@ -1,2 +1,2 @@
 <?
-    echo "Hello word";
+    echo "Hello word, Сережа пидор:)";
