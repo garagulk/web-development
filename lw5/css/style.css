@@ -1,0 +1,106 @@
+.top-block
+{
+    height: 350px;
+    width: 960px;
+    position: relative;
+    top: 100px;
+    left: 480px;
+}
+
+.top-block__image
+{
+    position: absolute;
+    left: 20px;
+}
+
+.top-block__quote
+{
+    height: 300px;
+    width: 570px;
+    position: absolute;
+    top: 50px;
+    left: 410px;
+}
+
+.top-block__quote_image
+{
+    display: inline-block;
+}
+
+.top-block__quote_text
+{
+    font-size: 28px;
+    font-family: Georgia;
+    font-style: italic;
+    text-align: left;
+    color: #848484;
+    position: absolute;
+    top: 75px;
+    left: 50px;
+}
+
+.top-block__quote_signature
+{
+    font-size: 16px;
+    font-family: "PT Sans";
+    text-align: left;
+    color: #333;
+    position: absolute;
+    top: 165px;
+    left: 50px;
+}
+
+.low-block
+{
+    height: 670px;
+    width: 960px;
+    position: relative;
+    top: 150px;
+    left: 480px;
+}
+
+.low-block__left
+{
+    height: 400px;
+    width: 330px;
+    position: absolute;
+
+}
+.low-block__left_title1
+{
+    font-size: 28px;
+    font-family: OpenS;
+    color: #15a98c;
+    position: absolute;
+    left: 20px;
+}
+
+.low-block__left_title2
+{
+    font-size: 28px;
+    font-family: OpenS;
+    color: #15a98c;
+    position: absolute;
+    left: 20px;
+    top: 200px;
+}
+.low-block__left_list
+{
+
+    font-size: 19px;
+    line-height: 30px;
+    font-family: Georgia;
+    color: #848484;
+    position: absolute;
+    top: 30px;
+}
+.low-block__left_list2
+{
+
+    font-size: 19px;
+    line-height: 30px;
+    font-family: Georgia;
+    color: #848484;
+    position: absolute;
+    top: 230px;
+}
