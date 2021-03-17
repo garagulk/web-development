@@ -58,7 +58,32 @@
             </li>
         </ol>
     </div>
-
+    <div class="low-block__right">
+        <span class="low-block__right_title1">
+            Jane Doe
+        </span>
+        <img src="images/line.png" class="low-block__right_line" alt="line">
+        <p class="low-block__right_text1">
+            В 1930-е годы прошлого века физик Джордж Гамоу из университета штата Колорадо начал публиковать мини-сериал
+            рассказов о неком мистере Томпкинсе, банковском клерке средних лет. Мистер Томпкинс, как явствовало из этих
+            историй, интересовался современной наукой.
+        </p>
+        <span class="low-block__right_title2">
+            Мое хобби
+        </span>
+        <p class="low-block__right_text2">
+            Он регулярно посещал вечерние лекции местного профессора и, разумеется, всегда засыпал на самом интересном
+            месте.
+            А когда просыпался, то обнаруживал себя в каком-нибудь параллельном мире, где один из основных законов
+            физики действовал не так, как в его мире.
+        </p>
+        <span class="low-block__right_message">
+            Напиши мне
+        </span>
+        <span class="low-block__right_message2">
+            →
+        </span>
+    </div>
 </div>
 </body>
 </html>
